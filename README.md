@@ -619,6 +619,7 @@ Conforme a *Política de Uso — Assistentes de IA e LLMs* (Visão Computacional
 | Data | 09/11/2026 |
 | Alunos(as) | Helder Cordeiro de Barros Filho · Lucas Rafael Gomes Maia da Silva · José Kevin Sales da Silva · Lucas Jerônimo Mendes · Felipe Salustiano Moreira |
 | Matrículas | Helder: 2025100387 · Lucas Rafael: 2025100517 · José Kevin: 2025100196 · Lucas Jerônimo: 2025100323 · Felipe: 2025100192 |
+| E-mails | Helder: hcbf@cesar.school · Lucas Rafael: lrgms@cesar.school · José Kevin: jkss@cesar.school · Lucas Jerônimo: ljm@cesar.school · Felipe: fsm2@cesar.school |
 | Atividade | Prática 3 — Futebol Analytics com YOLO |
 
 **Seção A — Uso de LLM / assistente de IA**
